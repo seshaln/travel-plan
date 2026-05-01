@@ -53,8 +53,8 @@ https://spotazores.com/en/webcam/sao-miguel/sete-cidades-lagoa/
 | Время | План |
 |---:|---|
 | 23:50 | Прилёт в [Ponta Delgada](https://maps.google.com/?q=Aeroporto+Joao+Paulo+II+Ponta+Delgada) |
-| 00:15–00:30 | Такси из аэропорта |
-| 00:30–00:45 | Заселение: [Rua José Bensaúde, 9500-209 Ponta Delgada](https://maps.google.com/?q=Rua+Jose+Bensaude+Ponta+Delgada) |
+| <span style="white-space:nowrap">00:15–00:30</span> | Такси из аэропорта |
+| <span style="white-space:nowrap">00:30–00:45</span> | Заселение: [Rua José Bensaúde, 9500-209 Ponta Delgada](https://maps.google.com/?q=Rua+Jose+Bensaude+Ponta+Delgada) |
 | 00:45 | Сон |
 
 ---
@@ -73,15 +73,15 @@ https://spotazores.com/en/webcam/sao-miguel/sete-cidades-lagoa/
 
 | Время | План | Стоимость |
 |---:|---|---:|
-| 08:30–09:10 | Супермаркет рядом, продукты на завтрак и перекусы | покупки |
-| 09:10–09:50 | Завтрак в номере | — |
-| 09:50–10:15 | Checkout, вещи оставить в отеле, если возможно | — |
-| 10:15–10:55 | **[Jardim António Borges](https://maps.google.com/?q=Jardim+Antonio+Borges+Ponta+Delgada)** или короткая прогулка рядом. Хорошее место до пещеры: гроты, лавовый камень, тень, не "старые здания" | бесплатно |
+| <span style="white-space:nowrap">08:30–09:10</span> | Супермаркет рядом, продукты на завтрак и перекусы | покупки |
+| <span style="white-space:nowrap">09:10–09:50</span> | Завтрак в номере | — |
+| <span style="white-space:nowrap">09:50–10:15</span> | Checkout, вещи оставить в отеле, если возможно | — |
+| <span style="white-space:nowrap">10:15–10:55</span> | **[Jardim António Borges](https://maps.google.com/?q=Jardim+Antonio+Borges+Ponta+Delgada)** или короткая прогулка рядом. Хорошее место до пещеры: гроты, лавовый камень, тень, не "старые здания" | бесплатно |
 | 11:00 | Прийти в **[Gruta do Carvão](https://maps.google.com/?q=Gruta+do+Carvao+Ponta+Delgada)** заранее | — |
-| 11:20–12:05 | **[Gruta do Carvão](https://maps.google.com/?q=Gruta+do+Carvao+Ponta+Delgada)**, короткий тур. Длится 30–45 минут, около 200 м, easy. Guided visits обязательны. Для minors нужен документ | примерно €44–47.50 за семью |
-| 12:10–12:40 | Вернуться за вещами | — |
-| 12:40–13:05 | Такси в аэропорт | такси |
-| 13:30–14:10 | Получение машины | — |
+| <span style="white-space:nowrap">11:20–12:05</span> | **[Gruta do Carvão](https://maps.google.com/?q=Gruta+do+Carvao+Ponta+Delgada)**, короткий тур. Длится 30–45 минут, около 200 м, easy. Guided visits обязательны. Для minors нужен документ | примерно €44–47.50 за семью |
+| <span style="white-space:nowrap">12:10–12:40</span> | Вернуться за вещами | — |
+| <span style="white-space:nowrap">12:40–13:05</span> | Такси в аэропорт | такси |
+| <span style="white-space:nowrap">13:30–14:10</span> | Получение машины | — |
 
 ![Gruta do Carvão lava tube](https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Gruta_Carv%C3%A3o.jpg/500px-Gruta_Carv%C3%A3o.jpg)
 
@@ -95,8 +95,8 @@ https://spotazores.com/en/webcam/sao-miguel/sete-cidades-lagoa/
 
 | Время | План |
 |---:|---|
-| 14:10–14:40 | Переезд аэропорт → [Ribeira Grande](https://maps.google.com/?q=Ribeira+Grande+Sao+Miguel) |
-| 14:40–15:50 | Обед в **[Alabote](https://maps.google.com/?q=Alabote+Ribeira+Grande)** |
+| <span style="white-space:nowrap">14:10–14:40</span> | Переезд аэропорт → [Ribeira Grande](https://maps.google.com/?q=Ribeira+Grande+Sao+Miguel) |
+| <span style="white-space:nowrap">14:40–15:50</span> | Обед в **[Alabote](https://maps.google.com/?q=Alabote+Ribeira+Grande)** |
 
 ### Резерв
 
@@ -108,10 +108,10 @@ https://spotazores.com/en/webcam/sao-miguel/sete-cidades-lagoa/
 
 | Время | План | Стоимость |
 |---:|---|---:|
-| 16:00–16:25 | **[Santa Bárbara beach / Ribeira Grande waterfront](https://maps.google.com/?q=Praia+de+Santa+Barbara+Ribeira+Grande)**. Короткая прогулка у океана | бесплатно |
-| 16:35–17:00 | **[Miradouro de Santa Iria](https://maps.google.com/?q=Miradouro+de+Santa+Iria)** | бесплатно |
-| 17:15–18:15 | **[Gorreana Tea Factory](https://maps.google.com/?q=Gorreana+Tea+Factory)**. Визит и дегустация бесплатные, бронирование не нужно | бесплатно |
-| 18:45–19:15 | Заселение в [Parrots' Village](https://maps.google.com/?q=Parrots+Village+Rabo+de+Peixe+Azores), Caminho da Tronqueira, [Rabo de Peixe](https://maps.google.com/?q=Rabo+de+Peixe+Sao+Miguel) | — |
+| <span style="white-space:nowrap">16:00–16:25</span> | **[Santa Bárbara beach / Ribeira Grande waterfront](https://maps.google.com/?q=Praia+de+Santa+Barbara+Ribeira+Grande)**. Короткая прогулка у океана | бесплатно |
+| <span style="white-space:nowrap">16:35–17:00</span> | **[Miradouro de Santa Iria](https://maps.google.com/?q=Miradouro+de+Santa+Iria)** | бесплатно |
+| <span style="white-space:nowrap">17:15–18:15</span> | **[Gorreana Tea Factory](https://maps.google.com/?q=Gorreana+Tea+Factory)**. Визит и дегустация бесплатные, бронирование не нужно | бесплатно |
+| <span style="white-space:nowrap">18:45–19:15</span> | Заселение в [Parrots' Village](https://maps.google.com/?q=Parrots+Village+Rabo+de+Peixe+Azores), Caminho da Tronqueira, [Rabo de Peixe](https://maps.google.com/?q=Rabo+de+Peixe+Sao+Miguel) | — |
 | 20:00 | Ужин: **[Restaurante da Associação Agrícola de São Miguel](https://maps.google.com/?q=Restaurante+Associacao+Agricola+Sao+Miguel)** | по меню |
 
 ![Gorreana Tea Plantation](https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Cha_Gorreana_Tea_Plantation_Sao_Miguel_Azores_Portugal_Main_Plant.jpg/500px-Cha_Gorreana_Tea_Plantation_Sao_Miguel_Azores_Portugal_Main_Plant.jpg)
@@ -122,7 +122,7 @@ https://spotazores.com/en/webcam/sao-miguel/sete-cidades-lagoa/
 
 Идеальный ужин рядом с вашим жильём: локальное мясо, большие порции, понятное меню для детей. [Карта](https://maps.google.com/?q=Restaurante+Associacao+Agricola+Sao+Miguel).
 
-Официально ресторан открыт ежедневно **12:00–22:00**. На сайте меню:
+Официально ресторан открыт ежедневно **<span style="white-space:nowrap">12:00–22:00</span>**. На сайте меню:
 - "Associação" steak 200 г, round steak: около €15
 - sirloin: около €22.50
 - tenderloin: около €27.50
@@ -141,14 +141,14 @@ https://spotazores.com/en/webcam/sao-miguel/sete-cidades-lagoa/
 | Время | План | Стоимость |
 |---:|---|---:|
 | 08:30 | Выезд из [Rabo de Peixe](https://maps.google.com/?q=Rabo+de+Peixe+Sao+Miguel) | — |
-| 09:15–10:00 | **[Caldeiras da Lagoa das Furnas](https://maps.google.com/?q=Caldeiras+da+Lagoa+das+Furnas)**: место, где в земле готовят cozido | возможна плата за вход/парковку |
-| 10:10–10:30 | **[Pico do Ferro](https://maps.google.com/?q=Miradouro+do+Pico+do+Ferro)**. Ехать только если не в облаке | бесплатно |
-| 10:45–11:30 | **[Caldeiras Vulcânicas в Furnas](https://maps.google.com/?q=Caldeiras+das+Furnas+Povoacao)**: фумаролы, кипящая вода, запах серы, разные минеральные источники | обычно бесплатно |
-| 12:00–13:30 | Обед: **[Caldeiras & Vulcões](https://maps.google.com/?q=Caldeiras+e+Vulcoes+Restaurante+Furnas)** или **[Tony's](https://maps.google.com/?q=Restaurante+Tony+Furnas)**, заказывать **cozido das Furnas** | обычно €18–28/чел. |
-| 14:00–16:30 | **[Parque Terra Nostra](https://maps.google.com/?q=Parque+Terra+Nostra+Furnas)**: сад + большой железистый термальный бассейн | примерно €77.50 за семью |
-| 16:45–17:15 | Купить **bolos lêvedos** в [Furnas](https://maps.google.com/?q=Furnas+Sao+Miguel) на завтрак/перекусы | покупки |
-| 17:30–19:00 | Вариант: возвращаться домой или добавить **[Poça da Dona Beija](https://maps.google.com/?q=Poca+da+Dona+Beija+Furnas)** | зависит от выбора |
-| 19:30–20:30 | Если очень хочется второй термальный опыт: **[Poça da Dona Beija](https://maps.google.com/?q=Poca+da+Dona+Beija+Furnas)** вечерним слотом | ориентир €60–80 на семью |
+| <span style="white-space:nowrap">09:15–10:00</span> | **[Caldeiras da Lagoa das Furnas](https://maps.google.com/?q=Caldeiras+da+Lagoa+das+Furnas)**: место, где в земле готовят cozido | возможна плата за вход/парковку |
+| <span style="white-space:nowrap">10:10–10:30</span> | **[Pico do Ferro](https://maps.google.com/?q=Miradouro+do+Pico+do+Ferro)**. Ехать только если не в облаке | бесплатно |
+| <span style="white-space:nowrap">10:45–11:30</span> | **[Caldeiras Vulcânicas в Furnas](https://maps.google.com/?q=Caldeiras+das+Furnas+Povoacao)**: фумаролы, кипящая вода, запах серы, разные минеральные источники | обычно бесплатно |
+| <span style="white-space:nowrap">12:00–13:30</span> | Обед: **[Caldeiras & Vulcões](https://maps.google.com/?q=Caldeiras+e+Vulcoes+Restaurante+Furnas)** или **[Tony's](https://maps.google.com/?q=Restaurante+Tony+Furnas)**, заказывать **cozido das Furnas** | обычно €18–28/чел. |
+| <span style="white-space:nowrap">14:00–16:30</span> | **[Parque Terra Nostra](https://maps.google.com/?q=Parque+Terra+Nostra+Furnas)**: сад + большой железистый термальный бассейн | примерно €77.50 за семью |
+| <span style="white-space:nowrap">16:45–17:15</span> | Купить **bolos lêvedos** в [Furnas](https://maps.google.com/?q=Furnas+Sao+Miguel) на завтрак/перекусы | покупки |
+| <span style="white-space:nowrap">17:30–19:00</span> | Вариант: возвращаться домой или добавить **[Poça da Dona Beija](https://maps.google.com/?q=Poca+da+Dona+Beija+Furnas)** | зависит от выбора |
+| <span style="white-space:nowrap">19:30–20:30</span> | Если очень хочется второй термальный опыт: **[Poça da Dona Beija](https://maps.google.com/?q=Poca+da+Dona+Beija+Furnas)** вечерним слотом | ориентир €60–80 на семью |
 
 ![Caldeiras das Furnas — фумаролы](https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/Caldeiras%2C_Furnas-IMG_8997.JPG/500px-Caldeiras%2C_Furnas-IMG_8997.JPG)
 
@@ -195,15 +195,15 @@ https://spotazores.com/en/webcam/sao-miguel/sete-cidades-lagoa/
 |---:|---|---:|
 | 07:45 | Завтрак. Купальники сразу под одежду, взять водные тапки, полотенца, сухую одежду, пакет для мокрого | — |
 | 08:15 | Выезд из [Rabo de Peixe](https://maps.google.com/?q=Rabo+de+Peixe+Sao+Miguel) | — |
-| 09:05–10:30 | **[Piscina Natural da Ponta da Ferraria](https://maps.google.com/?q=Piscina+Natural+da+Ponta+da+Ferraria)**. Купаться только если нет сильной волны и белой пены через весь бассейн | бесплатно |
-| 10:30–10:50 | Переодеться, чай/перекус | — |
-| 11:05–11:40 | **[Mosteiros](https://maps.google.com/?q=Mosteiros+Sao+Miguel)**: лавовые скалы, океан, короткая прогулка | бесплатно |
-| 12:10–13:10 | Обед в районе [Sete Cidades](https://maps.google.com/?q=Sete+Cidades) / [Mosteiros](https://maps.google.com/?q=Mosteiros+Sao+Miguel) или пикник | по выбору |
-| 13:20–13:45 | **[Vista do Rei](https://maps.google.com/?q=Miradouro+da+Vista+do+Rei)**. Если облака закрывают кратер, не зависать | бесплатно |
-| 14:00–15:10 | **[Lagoa do Canário](https://maps.google.com/?q=Lagoa+do+Canario+Sao+Miguel) + [Boca do Inferno](https://maps.google.com/?q=Miradouro+da+Boca+do+Inferno+Sete+Cidades)**. Самый красивый короткий выход дня | бесплатно |
-| 15:25–16:15 | **[Cerrado das Freiras](https://maps.google.com/?q=Cerrado+das+Freiras+Sete+Cidades) / [Lagoa de Santiago](https://maps.google.com/?q=Lagoa+de+Santiago+Sete+Cidades) / [мост Lagoa Azul–Lagoa Verde](https://maps.google.com/?q=Ponte+Lagoa+Azul+Lagoa+Verde+Sete+Cidades)** | бесплатно |
-| 16:15–17:00 | Короткая плоская прогулка у озера [Sete Cidades](https://maps.google.com/?q=Sete+Cidades+Lagoa) | бесплатно |
-| 17:00–18:00 | Возвращение в [Rabo de Peixe](https://maps.google.com/?q=Rabo+de+Peixe+Sao+Miguel) | — |
+| <span style="white-space:nowrap">09:05–10:30</span> | **[Piscina Natural da Ponta da Ferraria](https://maps.google.com/?q=Piscina+Natural+da+Ponta+da+Ferraria)**. Купаться только если нет сильной волны и белой пены через весь бассейн | бесплатно |
+| <span style="white-space:nowrap">10:30–10:50</span> | Переодеться, чай/перекус | — |
+| <span style="white-space:nowrap">11:05–11:40</span> | **[Mosteiros](https://maps.google.com/?q=Mosteiros+Sao+Miguel)**: лавовые скалы, океан, короткая прогулка | бесплатно |
+| <span style="white-space:nowrap">12:10–13:10</span> | Обед в районе [Sete Cidades](https://maps.google.com/?q=Sete+Cidades) / [Mosteiros](https://maps.google.com/?q=Mosteiros+Sao+Miguel) или пикник | по выбору |
+| <span style="white-space:nowrap">13:20–13:45</span> | **[Vista do Rei](https://maps.google.com/?q=Miradouro+da+Vista+do+Rei)**. Если облака закрывают кратер, не зависать | бесплатно |
+| <span style="white-space:nowrap">14:00–15:10</span> | **[Lagoa do Canário](https://maps.google.com/?q=Lagoa+do+Canario+Sao+Miguel) + [Boca do Inferno](https://maps.google.com/?q=Miradouro+da+Boca+do+Inferno+Sete+Cidades)**. Самый красивый короткий выход дня | бесплатно |
+| <span style="white-space:nowrap">15:25–16:15</span> | **[Cerrado das Freiras](https://maps.google.com/?q=Cerrado+das+Freiras+Sete+Cidades) / [Lagoa de Santiago](https://maps.google.com/?q=Lagoa+de+Santiago+Sete+Cidades) / [мост Lagoa Azul–Lagoa Verde](https://maps.google.com/?q=Ponte+Lagoa+Azul+Lagoa+Verde+Sete+Cidades)** | бесплатно |
+| <span style="white-space:nowrap">16:15–17:00</span> | Короткая плоская прогулка у озера [Sete Cidades](https://maps.google.com/?q=Sete+Cidades+Lagoa) | бесплатно |
+| <span style="white-space:nowrap">17:00–18:00</span> | Возвращение в [Rabo de Peixe](https://maps.google.com/?q=Rabo+de+Peixe+Sao+Miguel) | — |
 | 19:30 | Ужин рядом с жильём: дома или рыба/морепродукты в [Rabo de Peixe](https://maps.google.com/?q=Rabo+de+Peixe+Sao+Miguel) / [Ribeira Grande](https://maps.google.com/?q=Ribeira+Grande+Sao+Miguel) | по выбору |
 
 ![Mosteiros, побережье](https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Mosteiros_sao_miguel.jpg/500px-Mosteiros_sao_miguel.jpg)
@@ -252,15 +252,15 @@ https://spotazores.com/en/webcam/sao-miguel/sete-cidades-lagoa/
 | Время | План | Стоимость |
 |---:|---|---:|
 | 08:30 | Выезд из [Rabo de Peixe](https://maps.google.com/?q=Rabo+de+Peixe+Sao+Miguel) | — |
-| 09:20–10:45 | **[Parque Natural da Ribeira dos Caldeirões](https://maps.google.com/?q=Parque+Natural+da+Ribeira+dos+Caldeiroes)**. Водопады, мельницы, зелёные дорожки, короткие прогулки | бесплатно |
-| 11:10–11:40 | **[Miradouro do Salto da Farinha](https://maps.google.com/?q=Miradouro+do+Salto+da+Farinha)**. Только смотровая/короткий спуск, не полный маршрут | бесплатно |
-| 12:10–12:40 | **[Miradouro da Ponta do Sossego](https://maps.google.com/?q=Miradouro+da+Ponta+do+Sossego)** или **[Ponta da Madrugada](https://maps.google.com/?q=Miradouro+da+Ponta+da+Madrugada)** | бесплатно |
-| 13:00–14:15 | Обед в [Nordeste](https://maps.google.com/?q=Nordeste+Sao+Miguel): простая локальная кухня, мясо/рыба | по меню |
-| 14:30–15:00 | **[Farol do Arnel / Miradouro do Arnel](https://maps.google.com/?q=Farol+do+Arnel)**. Вниз к маяку дорога очень крутая; лучше смотреть сверху или спускаться пешком только если есть желание | бесплатно |
-| 15:00–16:20 | Длинный переезд по югу в сторону [Vila Franca do Campo](https://maps.google.com/?q=Vila+Franca+do+Campo) | — |
-| 16:30–17:10 | **[Queijadas da Vila do Morgado](https://maps.google.com/?q=Queijadas+da+Vila+Morgado+Vila+Franca+do+Campo)**, [Vila Franca do Campo](https://maps.google.com/?q=Vila+Franca+do+Campo). Купить местные queijadas | покупки |
-| 17:15–17:45 | Вид на **[Ilhéu de Vila Franca do Campo](https://maps.google.com/?q=Ilheu+de+Vila+Franca+do+Campo)** или короткий подъём к **[Nossa Senhora da Paz](https://maps.google.com/?q=Ermida+de+Nossa+Senhora+da+Paz+Vila+Franca+do+Campo)** ради вида | бесплатно |
-| 18:30–19:00 | Возврат в [Parrots' Village](https://maps.google.com/?q=Parrots+Village+Rabo+de+Peixe+Azores) | — |
+| <span style="white-space:nowrap">09:20–10:45</span> | **[Parque Natural da Ribeira dos Caldeirões](https://maps.google.com/?q=Parque+Natural+da+Ribeira+dos+Caldeiroes)**. Водопады, мельницы, зелёные дорожки, короткие прогулки | бесплатно |
+| <span style="white-space:nowrap">11:10–11:40</span> | **[Miradouro do Salto da Farinha](https://maps.google.com/?q=Miradouro+do+Salto+da+Farinha)**. Только смотровая/короткий спуск, не полный маршрут | бесплатно |
+| <span style="white-space:nowrap">12:10–12:40</span> | **[Miradouro da Ponta do Sossego](https://maps.google.com/?q=Miradouro+da+Ponta+do+Sossego)** или **[Ponta da Madrugada](https://maps.google.com/?q=Miradouro+da+Ponta+da+Madrugada)** | бесплатно |
+| <span style="white-space:nowrap">13:00–14:15</span> | Обед в [Nordeste](https://maps.google.com/?q=Nordeste+Sao+Miguel): простая локальная кухня, мясо/рыба | по меню |
+| <span style="white-space:nowrap">14:30–15:00</span> | **[Farol do Arnel / Miradouro do Arnel](https://maps.google.com/?q=Farol+do+Arnel)**. Вниз к маяку дорога очень крутая; лучше смотреть сверху или спускаться пешком только если есть желание | бесплатно |
+| <span style="white-space:nowrap">15:00–16:20</span> | Длинный переезд по югу в сторону [Vila Franca do Campo](https://maps.google.com/?q=Vila+Franca+do+Campo) | — |
+| <span style="white-space:nowrap">16:30–17:10</span> | **[Queijadas da Vila do Morgado](https://maps.google.com/?q=Queijadas+da+Vila+Morgado+Vila+Franca+do+Campo)**, [Vila Franca do Campo](https://maps.google.com/?q=Vila+Franca+do+Campo). Купить местные queijadas | покупки |
+| <span style="white-space:nowrap">17:15–17:45</span> | Вид на **[Ilhéu de Vila Franca do Campo](https://maps.google.com/?q=Ilheu+de+Vila+Franca+do+Campo)** или короткий подъём к **[Nossa Senhora da Paz](https://maps.google.com/?q=Ermida+de+Nossa+Senhora+da+Paz+Vila+Franca+do+Campo)** ради вида | бесплатно |
+| <span style="white-space:nowrap">18:30–19:00</span> | Возврат в [Parrots' Village](https://maps.google.com/?q=Parrots+Village+Rabo+de+Peixe+Azores) | — |
 | 19:30 | Ужин дома или лёгкий ужин рядом | по выбору |
 
 ![Ribeira dos Caldeirões водопад](https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Ribeira_dos_Caldeir%C3%B5es_Waterfall%2C_S%C3%A3o_Miguel_Island%2C_Azores%2C_Portugal_%28PPL3-Altered%29.jpg/500px-Ribeira_dos_Caldeir%C3%B5es_Waterfall%2C_S%C3%A3o_Miguel_Island%2C_Azores%2C_Portugal_%28PPL3-Altered%29.jpg)
@@ -288,7 +288,7 @@ https://spotazores.com/en/webcam/sao-miguel/sete-cidades-lagoa/
 
 Всё должно быть рядом с аэропортом и без риска. Полный хайк к [Lagoa do Fogo](https://maps.google.com/?q=Lagoa+do+Fogo+Sao+Miguel) не нужен. Делаем смотровые + короткую активность.
 
-По [Lagoa do Fogo](https://maps.google.com/?q=Lagoa+do+Fogo+Sao+Miguel): официальная shuttle-схема стоит €5 для нерезидентов и работает 09:00–19:00, но ограничения обычно летние. В любом случае утром 6 мая проверьте дорогу/правила и live-камеры.
+По [Lagoa do Fogo](https://maps.google.com/?q=Lagoa+do+Fogo+Sao+Miguel): официальная shuttle-схема стоит €5 для нерезидентов и работает <span style="white-space:nowrap">09:00–19:00</span>, но ограничения обычно летние. В любом случае утром 6 мая проверьте дорогу/правила и live-камеры.
 
 ---
 
@@ -296,18 +296,18 @@ https://spotazores.com/en/webcam/sao-miguel/sete-cidades-lagoa/
 
 | Время | План | Стоимость |
 |---:|---|---:|
-| 07:45–08:20 | Завтрак, сборы, выезд уже с вещами | — |
-| 08:20–09:00 | Переезд к [Lagoa do Fogo](https://maps.google.com/?q=Lagoa+do+Fogo+Sao+Miguel) | — |
-| 09:00–09:50 | **[Pico da Barrosa](https://maps.google.com/?q=Pico+da+Barrosa+Sao+Miguel) + [Miradouro da Lagoa do Fogo](https://maps.google.com/?q=Miradouro+da+Lagoa+do+Fogo)**. Без длинной тропы | бесплатно |
-| 10:05–11:25 | **[Caldeira Velha](https://maps.google.com/?q=Caldeira+Velha+Sao+Miguel)**. Лучше visit-only, а не купание, чтобы не возиться с мокрыми вещами перед самолётом | visit-only около €5 за семью |
-| 11:25–12:00 | Переезд в сторону аэропорта | — |
-| 12:00–13:00 | Заправка, лёгкий обед/кофе, финальная проверка | по выбору |
+| <span style="white-space:nowrap">07:45–08:20</span> | Завтрак, сборы, выезд уже с вещами | — |
+| <span style="white-space:nowrap">08:20–09:00</span> | Переезд к [Lagoa do Fogo](https://maps.google.com/?q=Lagoa+do+Fogo+Sao+Miguel) | — |
+| <span style="white-space:nowrap">09:00–09:50</span> | **[Pico da Barrosa](https://maps.google.com/?q=Pico+da+Barrosa+Sao+Miguel) + [Miradouro da Lagoa do Fogo](https://maps.google.com/?q=Miradouro+da+Lagoa+do+Fogo)**. Без длинной тропы | бесплатно |
+| <span style="white-space:nowrap">10:05–11:25</span> | **[Caldeira Velha](https://maps.google.com/?q=Caldeira+Velha+Sao+Miguel)**. Лучше visit-only, а не купание, чтобы не возиться с мокрыми вещами перед самолётом | visit-only около €5 за семью |
+| <span style="white-space:nowrap">11:25–12:00</span> | Переезд в сторону аэропорта | — |
+| <span style="white-space:nowrap">12:00–13:00</span> | Заправка, лёгкий обед/кофе, финальная проверка | по выбору |
 | 13:30 | Сдача машины | — |
 
 ![Caldeira Velha](https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Monumento_Natural_e_Regional_da_Caldeira_Velha%2C_local_de_banhos_em_%C3%A1guas_termais%2C_magnificas_forma%C3%A7%C3%B5es_geol%C3%B3gicas%2C_Ribeira_Grande%2C_ilha_de_S%C3%A3o_Miguel%2C_A%C3%A7ores.JPG/500px-Monumento_Natural_e_Regional_da_Caldeira_Velha%2C_local_de_banhos_em_%C3%A1guas_termais%2C_magnificas_forma%C3%A7%C3%B5es_geol%C3%B3gicas%2C_Ribeira_Grande%2C_ilha_de_S%C3%A3o_Miguel%2C_A%C3%A7ores.JPG)
 
 **[Caldeira Velha](https://maps.google.com/?q=Caldeira+Velha+Sao+Miguel):**
-- с 1 мая по 30 сентября открыта 09:00–20:30;
+- с 1 мая по 30 сентября открыта <span style="white-space:nowrap">09:00–20:30</span>;
 - билеты действуют на слот 1ч30;
 - full ticket с термальными бассейнами: взрослый €10, junior 7–14 €5;
 - visit-only: взрослый €3, junior €1, family ticket 2 взрослых + дети до 14 лет €5.
@@ -322,10 +322,10 @@ https://spotazores.com/en/webcam/sao-miguel/sete-cidades-lagoa/
 
 | Время | План |
 |---:|---|
-| 08:30–09:10 | Выезд в [Lagoa](https://maps.google.com/?q=Lagoa+Sao+Miguel) / [Ponta Delgada](https://maps.google.com/?q=Ponta+Delgada) |
-| 09:15–10:15 | **[Cerâmica Vieira](https://maps.google.com/?q=Ceramica+Vieira+Lagoa+Sao+Miguel)** в [Lagoa](https://maps.google.com/?q=Lagoa+Sao+Miguel): керамика, мастерская, сувениры |
-| 10:40–11:40 | **[Museu Carlos Machado](https://maps.google.com/?q=Museu+Carlos+Machado+Ponta+Delgada)** или короткая прогулка по [Ponta Delgada](https://maps.google.com/?q=Ponta+Delgada) без "старинных зданий", скорее как городская пауза перед аэропортом |
-| 12:00–13:30 | Аэропорт, заправка, сдача машины |
+| <span style="white-space:nowrap">08:30–09:10</span> | Выезд в [Lagoa](https://maps.google.com/?q=Lagoa+Sao+Miguel) / [Ponta Delgada](https://maps.google.com/?q=Ponta+Delgada) |
+| <span style="white-space:nowrap">09:15–10:15</span> | **[Cerâmica Vieira](https://maps.google.com/?q=Ceramica+Vieira+Lagoa+Sao+Miguel)** в [Lagoa](https://maps.google.com/?q=Lagoa+Sao+Miguel): керамика, мастерская, сувениры |
+| <span style="white-space:nowrap">10:40–11:40</span> | **[Museu Carlos Machado](https://maps.google.com/?q=Museu+Carlos+Machado+Ponta+Delgada)** или короткая прогулка по [Ponta Delgada](https://maps.google.com/?q=Ponta+Delgada) без "старинных зданий", скорее как городская пауза перед аэропортом |
+| <span style="white-space:nowrap">12:00–13:30</span> | Аэропорт, заправка, сдача машины |
 
 ---
 
