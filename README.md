@@ -4,7 +4,7 @@
 **Ограничения по прогулкам:** до 8 км, перепад высот до 120 м
 **База после первой ночи:** [Parrots' Village, Caminho da Tronqueira, 9600-175 Rabo de Peixe, Portugal](https://maps.google.com/?q=Parrots+Village+Rabo+de+Peixe+Azores)
 
-![Ponta Delgada, São Miguel](https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Ilha_de_S%C3%A3o_Miguel_DSC00659_%2836586155410%29_%28cropped%29.jpg/960px-Ilha_de_S%C3%A3o_Miguel_DSC00659_%2836586155410%29_%28cropped%29.jpg)
+![Ponta Delgada, São Miguel](https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Ilha_de_S%C3%A3o_Miguel_DSC00659_%2836586155410%29_%28cropped%29.jpg/500px-Ilha_de_S%C3%A3o_Miguel_DSC00659_%2836586155410%29_%28cropped%29.jpg)
 
 ---
 
@@ -62,7 +62,7 @@ https://spotazores.com/en/webcam/sao-miguel/sete-cidades-lagoa/
 
 # 2 мая, суббота. Пещера, машина, север острова, ужин мясом
 
-![Ribeira Grande, северный берег](https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/Pa%C3%A7os_do_Concelho_da_Ribeira_Grande.jpg/960px-Pa%C3%A7os_do_Concelho_da_Ribeira_Grande.jpg)
+![Ribeira Grande, северный берег](https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/Pa%C3%A7os_do_Concelho_da_Ribeira_Grande.jpg/500px-Pa%C3%A7os_do_Concelho_da_Ribeira_Grande.jpg)
 
 ## Логика дня
 
@@ -84,7 +84,7 @@ https://spotazores.com/en/webcam/sao-miguel/sete-cidades-lagoa/
 | 12:40–13:05 | Такси в аэропорт | такси |
 | 13:30–14:10 | Получение машины | — |
 
-![Gruta do Carvão lava tube](https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Gruta_Carv%C3%A3o.jpg/960px-Gruta_Carv%C3%A3o.jpg)
+![Gruta do Carvão lava tube](https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Gruta_Carv%C3%A3o.jpg/500px-Gruta_Carv%C3%A3o.jpg)
 
 **Источник Gruta do Carvão:**
 https://www.grutadocarvao.pt/en
@@ -121,7 +121,7 @@ https://www.alabote.net/en/contactos/
 | 18:45–19:15 | Заселение в [Parrots' Village](https://maps.google.com/?q=Parrots+Village+Rabo+de+Peixe+Azores), Caminho da Tronqueira, [Rabo de Peixe](https://maps.google.com/?q=Rabo+de+Peixe+Sao+Miguel) | — |
 | 20:00 | Ужин: **[Restaurante da Associação Agrícola de São Miguel](https://maps.google.com/?q=Restaurante+Associacao+Agricola+Sao+Miguel)** | по меню |
 
-![Gorreana Tea Plantation](https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Cha_Gorreana_Tea_Plantation_Sao_Miguel_Azores_Portugal_Main_Plant.jpg/960px-Cha_Gorreana_Tea_Plantation_Sao_Miguel_Azores_Portugal_Main_Plant.jpg)
+![Gorreana Tea Plantation](https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Cha_Gorreana_Tea_Plantation_Sao_Miguel_Azores_Portugal_Main_Plant.jpg/500px-Cha_Gorreana_Tea_Plantation_Sao_Miguel_Azores_Portugal_Main_Plant.jpg)
 
 **Источник Gorreana:**
 https://gorreana.pt/en/visit-gorreana/
@@ -146,7 +146,7 @@ https://restauranteaasm.com/en/menu/
 
 # 3 мая, воскресенье. Furnas: вулканическая еда, Terra Nostra, термы
 
-![Vale das Furnas](https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/Vale_das_Furnas%2C_Povoa%C3%A7%C3%A3o%2C_ilha_de_S%C3%A3o_Miguel%2C_A%C3%A7ores.JPG/960px-Vale_das_Furnas%2C_Povoa%C3%A7%C3%A3o%2C_ilha_de_S%C3%A3o_Miguel%2C_A%C3%A7ores.JPG)
+![Vale das Furnas](https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/Vale_das_Furnas%2C_Povoa%C3%A7%C3%A3o%2C_ilha_de_S%C3%A3o_Miguel%2C_A%C3%A7ores.JPG/500px-Vale_das_Furnas%2C_Povoa%C3%A7%C3%A3o%2C_ilha_de_S%C3%A3o_Miguel%2C_A%C3%A7ores.JPG)
 
 ## Логика дня
 
@@ -164,7 +164,7 @@ https://restauranteaasm.com/en/menu/
 | 17:30–19:00 | Вариант: возвращаться домой или добавить **[Poça da Dona Beija](https://maps.google.com/?q=Poca+da+Dona+Beija+Furnas)** | зависит от выбора |
 | 19:30–20:30 | Если очень хочется второй термальный опыт: **[Poça da Dona Beija](https://maps.google.com/?q=Poca+da+Dona+Beija+Furnas)** вечерним слотом | ориентир €60–80 на семью |
 
-![Caldeiras das Furnas — фумаролы](https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/Caldeiras%2C_Furnas-IMG_8997.JPG/960px-Caldeiras%2C_Furnas-IMG_8997.JPG)
+![Caldeiras das Furnas — фумаролы](https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/Caldeiras%2C_Furnas-IMG_8997.JPG/500px-Caldeiras%2C_Furnas-IMG_8997.JPG)
 
 ---
 
@@ -180,7 +180,7 @@ https://caldeirasevulcoes.com/pagina-reservas/
 
 ### Terra Nostra
 
-![Parque Terra Nostra](https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/Terra_Nostra-Acores.jpg/960px-Terra_Nostra-Acores.jpg)
+![Parque Terra Nostra](https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/Terra_Nostra-Acores.jpg/500px-Terra_Nostra-Acores.jpg)
 
 Главный термальный опыт дня. Железистая вода пачкает светлую ткань, поэтому брать тёмные купальники/плавки и старые полотенца. [Карта](https://maps.google.com/?q=Parque+Terra+Nostra+Furnas).
 
@@ -200,7 +200,7 @@ https://bookings.pocadadonabeija.com/
 
 # 4 мая, понедельник. Ferraria утром, потом Sete Cidades и запад
 
-![Sete Cidades, Miradouro da Boca do Inferno](https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Miradouro_da_Boca_do_Inferno%2C_povoado_das_Sete_Cidades%2C_ilha_de_S%C3%A3o_Miguel%2C_A%C3%A7ores.JPG/960px-Miradouro_da_Boca_do_Inferno%2C_povoado_das_Sete_Cidades%2C_ilha_de_S%C3%A3o_Miguel%2C_A%C3%A7ores.JPG)
+![Sete Cidades, Miradouro da Boca do Inferno](https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Miradouro_da_Boca_do_Inferno%2C_povoado_das_Sete_Cidades%2C_ilha_de_S%C3%A3o_Miguel%2C_A%C3%A7ores.JPG/500px-Miradouro_da_Boca_do_Inferno%2C_povoado_das_Sete_Cidades%2C_ilha_de_S%C3%A3o_Miguel%2C_A%C3%A7ores.JPG)
 
 ## Логика дня
 
@@ -208,7 +208,7 @@ https://bookings.pocadadonabeija.com/
 
 **Ferraria бесплатная**, но это не бассейн, а океанская природная купальня. Там есть верёвки, потому что при волнах и течениях место может быть жёстким.
 
-![Ponta da Ferraria](https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/Lava_rock%2C_Ponta_da_Ferraria%2C_S%C3%A3o_Miguel_Island%2C_Azores%2C_Portugal_%28PPL1-Corrected%29.jpg/960px-Lava_rock%2C_Ponta_da_Ferraria%2C_S%C3%A3o_Miguel_Island%2C_Azores%2C_Portugal_%28PPL1-Corrected%29.jpg)
+![Ponta da Ferraria](https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/Lava_rock%2C_Ponta_da_Ferraria%2C_S%C3%A3o_Miguel_Island%2C_Azores%2C_Portugal_%28PPL1-Corrected%29.jpg/500px-Lava_rock%2C_Ponta_da_Ferraria%2C_S%C3%A3o_Miguel_Island%2C_Azores%2C_Portugal_%28PPL1-Corrected%29.jpg)
 
 **Источник Ferraria:**
 https://pontadaferraria.com/
@@ -232,7 +232,7 @@ https://pontadaferraria.com/
 | 17:00–18:00 | Возвращение в [Rabo de Peixe](https://maps.google.com/?q=Rabo+de+Peixe+Sao+Miguel) | — |
 | 19:30 | Ужин рядом с жильём: дома или рыба/морепродукты в [Rabo de Peixe](https://maps.google.com/?q=Rabo+de+Peixe+Sao+Miguel) / [Ribeira Grande](https://maps.google.com/?q=Ribeira+Grande+Sao+Miguel) | по выбору |
 
-![Mosteiros, побережье](https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Mosteiros_sao_miguel.jpg/960px-Mosteiros_sao_miguel.jpg)
+![Mosteiros, побережье](https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Mosteiros_sao_miguel.jpg/500px-Mosteiros_sao_miguel.jpg)
 
 ---
 
@@ -269,7 +269,7 @@ https://pontadaferraria.com/
 
 # 5 мая, вторник. Nordeste: водопады, зелень, смотровые, сладости
 
-![Nordeste, São Miguel](https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/Azores_-_Noordeste_%287684585600%29.jpg/960px-Azores_-_Noordeste_%287684585600%29.jpg)
+![Nordeste, São Miguel](https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/Azores_-_Noordeste_%287684585600%29.jpg/500px-Azores_-_Noordeste_%287684585600%29.jpg)
 
 ## Логика дня
 
@@ -289,9 +289,9 @@ https://pontadaferraria.com/
 | 18:30–19:00 | Возврат в [Parrots' Village](https://maps.google.com/?q=Parrots+Village+Rabo+de+Peixe+Azores) | — |
 | 19:30 | Ужин дома или лёгкий ужин рядом | по выбору |
 
-![Ribeira dos Caldeirões водопад](https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Ribeira_dos_Caldeir%C3%B5es_Waterfall%2C_S%C3%A3o_Miguel_Island%2C_Azores%2C_Portugal_%28PPL3-Altered%29.jpg/960px-Ribeira_dos_Caldeir%C3%B5es_Waterfall%2C_S%C3%A3o_Miguel_Island%2C_Azores%2C_Portugal_%28PPL3-Altered%29.jpg)
+![Ribeira dos Caldeirões водопад](https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Ribeira_dos_Caldeir%C3%B5es_Waterfall%2C_S%C3%A3o_Miguel_Island%2C_Azores%2C_Portugal_%28PPL3-Altered%29.jpg/500px-Ribeira_dos_Caldeir%C3%B5es_Waterfall%2C_S%C3%A3o_Miguel_Island%2C_Azores%2C_Portugal_%28PPL3-Altered%29.jpg)
 
-![Vila Franca do Campo и ilhéu](https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Vila_Franca_do_Campo_%2850629401872%29.jpg/960px-Vila_Franca_do_Campo_%2850629401872%29.jpg)
+![Vila Franca do Campo и ilhéu](https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Vila_Franca_do_Campo_%2850629401872%29.jpg/500px-Vila_Franca_do_Campo_%2850629401872%29.jpg)
 
 ---
 
@@ -308,7 +308,7 @@ https://pontadaferraria.com/
 
 # 6 мая, среда. Утро перед вылетом: Lagoa do Fogo + Caldeira Velha
 
-![Lagoa do Fogo](https://upload.wikimedia.org/wikipedia/commons/thumb/2/28/A%C3%A7ores_lagoa_fogo-0140.tif/lossy-page1-960px-A%C3%A7ores_lagoa_fogo-0140.tif.jpg)
+![Lagoa do Fogo](https://upload.wikimedia.org/wikipedia/commons/thumb/2/28/A%C3%A7ores_lagoa_fogo-0140.tif/lossy-page1-500px-A%C3%A7ores_lagoa_fogo-0140.tif.jpg)
 
 ## Логика дня
 
@@ -333,7 +333,7 @@ https://turismo.azores.gov.pt/en/shuttle-vulcao-do-fogo-en/
 | 12:00–13:00 | Заправка, лёгкий обед/кофе, финальная проверка | по выбору |
 | 13:30 | Сдача машины | — |
 
-![Caldeira Velha](https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Monumento_Natural_e_Regional_da_Caldeira_Velha%2C_local_de_banhos_em_%C3%A1guas_termais%2C_magnificas_forma%C3%A7%C3%B5es_geol%C3%B3gicas%2C_Ribeira_Grande%2C_ilha_de_S%C3%A3o_Miguel%2C_A%C3%A7ores.JPG/960px-Monumento_Natural_e_Regional_da_Caldeira_Velha%2C_local_de_banhos_em_%C3%A1guas_termais%2C_magnificas_forma%C3%A7%C3%B5es_geol%C3%B3gicas%2C_Ribeira_Grande%2C_ilha_de_S%C3%A3o_Miguel%2C_A%C3%A7ores.JPG)
+![Caldeira Velha](https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Monumento_Natural_e_Regional_da_Caldeira_Velha%2C_local_de_banhos_em_%C3%A1guas_termais%2C_magnificas_forma%C3%A7%C3%B5es_geol%C3%B3gicas%2C_Ribeira_Grande%2C_ilha_de_S%C3%A3o_Miguel%2C_A%C3%A7ores.JPG/500px-Monumento_Natural_e_Regional_da_Caldeira_Velha%2C_local_de_banhos_em_%C3%A1guas_termais%2C_magnificas_forma%C3%A7%C3%B5es_geol%C3%B3gicas%2C_Ribeira_Grande%2C_ilha_de_S%C3%A3o_Miguel%2C_A%C3%A7ores.JPG)
 
 **[Caldeira Velha](https://maps.google.com/?q=Caldeira+Velha+Sao+Miguel):**
 - с 1 мая по 30 сентября открыта 09:00–20:30;
