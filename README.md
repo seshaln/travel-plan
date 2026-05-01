@@ -32,7 +32,6 @@
 - [Коротко по еде по дням](#коротко-по-еде-по-дням)
 - [Что я бы не включал](#что-я-бы-не-включал)
 - [Быстрый чек-лист вещей](#быстрый-чек-лист-вещей)
-- [Главные источники](#главные-источники)
 
 ---
 
@@ -86,9 +85,6 @@ https://spotazores.com/en/webcam/sao-miguel/sete-cidades-lagoa/
 
 ![Gruta do Carvão lava tube](https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Gruta_Carv%C3%A3o.jpg/500px-Gruta_Carv%C3%A3o.jpg)
 
-**Источник Gruta do Carvão:**
-https://www.grutadocarvao.pt/en
-
 ---
 
 ## Обед после машины
@@ -101,9 +97,6 @@ https://www.grutadocarvao.pt/en
 |---:|---|
 | 14:10–14:40 | Переезд аэропорт → [Ribeira Grande](https://maps.google.com/?q=Ribeira+Grande+Sao+Miguel) |
 | 14:40–15:50 | Обед в **[Alabote](https://maps.google.com/?q=Alabote+Ribeira+Grande)** |
-
-**Источник Alabote:**
-https://www.alabote.net/en/contactos/
 
 ### Резерв
 
@@ -123,9 +116,6 @@ https://www.alabote.net/en/contactos/
 
 ![Gorreana Tea Plantation](https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Cha_Gorreana_Tea_Plantation_Sao_Miguel_Azores_Portugal_Main_Plant.jpg/500px-Cha_Gorreana_Tea_Plantation_Sao_Miguel_Azores_Portugal_Main_Plant.jpg)
 
-**Источник Gorreana:**
-https://gorreana.pt/en/visit-gorreana/
-
 ---
 
 ## Ужин 2 мая: Associação Agrícola
@@ -137,10 +127,6 @@ https://gorreana.pt/en/visit-gorreana/
 - sirloin: около €22.50
 - tenderloin: около €27.50
 - детское меню: около €10
-
-**Источник:**
-https://restauranteaasm.com/en/
-https://restauranteaasm.com/en/menu/
 
 ---
 
@@ -175,24 +161,15 @@ https://restauranteaasm.com/en/menu/
 Бронировать на **12:00 или 12:30**.
 Лучше [Caldeiras & Vulcões](https://maps.google.com/?q=Caldeiras+e+Vulcoes+Restaurante+Furnas), потому что у них в форме бронирования есть отдельная отметка "Cozinha Geotermal" и опция "Cozido das Furnas". Бронь считается действительной только после подтверждения по email/телефону.
 
-**Источник:**
-https://caldeirasevulcoes.com/pagina-reservas/
-
 ### Terra Nostra
 
 ![Parque Terra Nostra](https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/Terra_Nostra-Acores.jpg/500px-Terra_Nostra-Acores.jpg)
 
 Главный термальный опыт дня. Железистая вода пачкает светлую ткань, поэтому брать тёмные купальники/плавки и старые полотенца. [Карта](https://maps.google.com/?q=Parque+Terra+Nostra+Furnas).
 
-**Источник:**
-https://www.parqueterranostra.com/en/ticketing/
-
 ### Poça da Dona Beija
 
 Покупать только если точно пойдёте, потому что официальный booking предупреждает: отмены, обмена и возврата нет. [Карта](https://maps.google.com/?q=Poca+da+Dona+Beija+Furnas).
-
-**Источник:**
-https://bookings.pocadadonabeija.com/
 
 **Мой выбор:** сделать **[Terra Nostra](https://maps.google.com/?q=Parque+Terra+Nostra+Furnas) как главный термальный опыт**, а [Poça da Dona Beija](https://maps.google.com/?q=Poca+da+Dona+Beija+Furnas) оставить как опцию, если после Terra Nostra ещё есть силы.
 
@@ -209,9 +186,6 @@ https://bookings.pocadadonabeija.com/
 **Ferraria бесплатная**, но это не бассейн, а океанская природная купальня. Там есть верёвки, потому что при волнах и течениях место может быть жёстким.
 
 ![Ponta da Ferraria](https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/Lava_rock%2C_Ponta_da_Ferraria%2C_S%C3%A3o_Miguel_Island%2C_Azores%2C_Portugal_%28PPL1-Corrected%29.jpg/500px-Lava_rock%2C_Ponta_da_Ferraria%2C_S%C3%A3o_Miguel_Island%2C_Azores%2C_Portugal_%28PPL1-Corrected%29.jpg)
-
-**Источник Ferraria:**
-https://pontadaferraria.com/
 
 ---
 
@@ -316,9 +290,6 @@ https://pontadaferraria.com/
 
 По [Lagoa do Fogo](https://maps.google.com/?q=Lagoa+do+Fogo+Sao+Miguel): официальная shuttle-схема стоит €5 для нерезидентов и работает 09:00–19:00, но ограничения обычно летние. В любом случае утром 6 мая проверьте дорогу/правила и live-камеры.
 
-**Источник shuttle Lagoa do Fogo:**
-https://turismo.azores.gov.pt/en/shuttle-vulcao-do-fogo-en/
-
 ---
 
 ## План A, если Lagoa do Fogo видна по камере
@@ -340,9 +311,6 @@ https://turismo.azores.gov.pt/en/shuttle-vulcao-do-fogo-en/
 - билеты действуют на слот 1ч30;
 - full ticket с термальными бассейнами: взрослый €10, junior 7–14 €5;
 - visit-only: взрослый €3, junior €1, family ticket 2 взрослых + дети до 14 лет €5.
-
-**Источник:**
-https://parquesnaturais.azores.gov.pt/en/parques/9/centro/21/horarios
 
 Для вашей семьи:
 - **visit-only:** около €5 за семью;
@@ -376,27 +344,21 @@ https://parquesnaturais.azores.gov.pt/en/parques/9/centro/21/horarios
 
 2. **[Alabote](https://maps.google.com/?q=Alabote+Ribeira+Grande) на обед 2 мая, примерно 14:40**
    Нужен как обед после получения машины.
-   Источник: https://www.alabote.net/en/contactos/
 
 3. **[Associação Agrícola](https://maps.google.com/?q=Restaurante+Associacao+Agricola+Sao+Miguel) на ужин 2 мая, 20:00**
    Популярное место, рядом с вашим жильём.
-   Источник: https://restauranteaasm.com/en/
 
 4. **[Cozido das Furnas](https://maps.google.com/?q=Caldeiras+e+Vulcoes+Restaurante+Furnas) на 3 мая, 12:00 или 12:30**
    Лучше [Caldeiras & Vulcões](https://maps.google.com/?q=Caldeiras+e+Vulcoes+Restaurante+Furnas), потому что у них в форме отдельно есть геотермальная кухня и cozido.
-   Источник: https://caldeirasevulcoes.com/pagina-reservas/
 
 5. **[Terra Nostra](https://maps.google.com/?q=Parque+Terra+Nostra+Furnas) на 3 мая, вход около 14:00**
    Особенно если хотите не терять время на кассе.
-   Источник: https://www.parqueterranostra.com/en/ticketing/
 
 6. **[Poça da Dona Beija](https://maps.google.com/?q=Poca+da+Dona+Beija+Furnas)**
    Только если точно хотите второй термальный опыт. Билеты онлайн, без отмен и возвратов.
-   Источник: https://bookings.pocadadonabeija.com/
 
 7. **[Caldeira Velha](https://maps.google.com/?q=Caldeira+Velha+Sao+Miguel) на 6 мая**
    Особенно если хотите full ticket с купанием. Если только visit-only, можно решать гибче.
-   Источник: https://parquesnaturais.azores.gov.pt/en/parques/9/centro/21/horarios
 
 ---
 
@@ -439,17 +401,3 @@ https://parquesnaturais.azores.gov.pt/en/parques/9/centro/21/horarios
 
 ---
 
-# Главные источники
-
-- SpotAzores live cameras: https://spotazores.com/en/webcam/sao-miguel/sete-cidades-lagoa/
-- Gruta do Carvão: https://www.grutadocarvao.pt/en
-- Alabote: https://www.alabote.net/en/contactos/
-- Restaurante da Associação Agrícola: https://restauranteaasm.com/en/
-- Associação Agrícola menu: https://restauranteaasm.com/en/menu/
-- Gorreana Tea Factory: https://gorreana.pt/en/visit-gorreana/
-- Caldeiras & Vulcões reservations: https://caldeirasevulcoes.com/pagina-reservas/
-- Terra Nostra ticketing: https://www.parqueterranostra.com/en/ticketing/
-- Poça da Dona Beija booking: https://bookings.pocadadonabeija.com/
-- Ponta da Ferraria: https://pontadaferraria.com/
-- Lagoa do Fogo shuttle: https://turismo.azores.gov.pt/en/shuttle-vulcao-do-fogo-en/
-- Caldeira Velha hours and tickets: https://parquesnaturais.azores.gov.pt/en/parques/9/centro/21/horarios
